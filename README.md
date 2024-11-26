@@ -12,7 +12,7 @@
     <nav>
       <ul>
         <li><a href="#about">À propos</a></li>
-        <li><a href="#projects">Projets</a></li>
+        <li><a href="#projects">Réalisations</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
     </nav>
@@ -31,11 +31,11 @@
   </section>
 
   <section id="projects">
-    <h2>Mes projets</h2>
+    <h2>Mes réalisations</h2>
     <div class="project-card">
       <img src="projet1.jpg" alt="Projet 1">
-      <h3>Nom du projet</h3>
-      <p>Description du projet...</p>
+      <h3>Jeu de Morpion</h3>
+      <p>Création de Morpion sur Python</p>
     </div>
   </section>
 
