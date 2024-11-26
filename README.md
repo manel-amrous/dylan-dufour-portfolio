@@ -56,7 +56,7 @@
 </html>
 
 
-/* styles.css */
+<style>
 
 body {
   font-family: 'Arial', sans-serif;
@@ -140,8 +140,7 @@ button:hover {
     opacity: 1;
   }
 }
-
-
+</style>
 
 # dylan-dufour-portfolio
 Portfolio
