@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Portfolio de Dylan, développeur web spécialisé dans la création de sites modernes et dynamiques.">
   Dylan -  Mon Portfolio
+  https://www.keplearning.com/wp-content/uploads/2021/03/web-dev.jpg
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
