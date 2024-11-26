@@ -41,7 +41,8 @@
   <section id="contact">
     <h2>Contactez-moi</h2>
     mail: dylan.dufour@laplateforme.io
-    linkedin: https://www.linkedin.com/in/dylan-dufour-0bb0ba273/
+    linkedin: https://www.linkedin.com/in/dylan-dufour-0bb0ba273/  ![image](https://github.com/user-attachments/assets/c0732e72-1fd3-4224-bead-b4a266623496)
+
       <button type="submit"></button>
     </form>
   </section>
