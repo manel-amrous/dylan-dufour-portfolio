@@ -45,9 +45,17 @@
   <section id="contact">
     <h2>Contactez-moi</h2> Pour plus de renseignements contactez-moi par 
     mail: dylan.dufour@laplateforme.io
-    linkedin: https://www.linkedin.com/in/dylan-dufour-0bb0ba273/  instagram: https://www.instagram.com/
+    linkedin: https://www.linkedin.com/in/dylan-dufour-0bb0ba273/  
+    instagram: https://www.instagram.com/
+  </section>
+    
+    
 
-  ![image](https://github.com/user-attachments/assets/2e787121-f710-40db-91dc-bc502f154090)
+
+
+
+
+<image src="https://github.com/user-attachments/assets/2e787121-f710-40db-91dc-bc502f154090"           left width=200>
 
 
 
