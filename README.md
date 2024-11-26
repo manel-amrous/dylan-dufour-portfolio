@@ -33,7 +33,7 @@
   <section id="projects">
     <h2>Mes réalisations</h2>
     <div class="project-card">
-      <img src="C:\Users\dydyd\Documents\morpion 2.py">
+      <img src=>
       <h3>Jeu de Morpion</h3>
       <p>Création de Morpion sur Python</p>
     </div>
