@@ -39,7 +39,7 @@
   </section>
 
   <section id="contact">
-    <h2>Contactez-moi</h2>
+    <h2>Contactez-moi</h2> Pour plus de renseignements contactez-moi
     mail: dylan.dufour@laplateforme.io
     linkedin: https://www.linkedin.com/in/dylan-dufour-0bb0ba273/  instagram: https://www.instagram.com/
 
