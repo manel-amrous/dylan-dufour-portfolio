@@ -47,5 +47,8 @@
     mail: dylan.dufour@laplateforme.io
     linkedin: https://www.linkedin.com/in/dylan-dufour-0bb0ba273/  instagram: https://www.instagram.com/
 
+  ![image](https://github.com/user-attachments/assets/543d8580-e64f-4d29-8455-1a9638993c4c)
+
+
 # dylan-dufour-portfolio
 Portfolio
