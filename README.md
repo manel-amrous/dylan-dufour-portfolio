@@ -44,7 +44,5 @@
     mail: dylan.dufour@laplateforme.io
     linkedin: https://www.linkedin.com/in/dylan-dufour-0bb0ba273/  instagram: https://www.instagram.com/
 
-
-
 # dylan-dufour-portfolio
 Portfolio
