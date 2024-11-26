@@ -20,14 +20,14 @@
 
   <section id="hero">
     <h1>Bienvenue sur mon portfolio</h1>
-    <p>Je suis Dylan DUFOUR, un développeur web passionné par la création de sites web dynamiques et modernes.
-    J'ai beaucoup de compétences et connaissances dans ce domaine, j'ai des compétences dans le réseau, la virtualisation, Active Directory, GLPI </p>
+    <p>Je suis Dylan DUFOUR, un développeur web passionné par la création de sites web dynamiques et modernes.</p>
     <a href="#projects" class="btn">Voir mes projets</a>
   </section>
 
   <section id="about">
     <h2>À propos de moi</h2>
-    <p>Je suis un développeur web avec une expérience dans la création de sites responsive et interactifs...</p>
+    <p>Je suis un développeur web avec une expérience dans la création de sites responsive et interactifs...
+      J'ai beaucoup de compétences et connaissances dans ce domaine, j'ai des compétences dans le réseau, la virtualisation, Active Directory, GLPI.</p>
   </section>
 
   <section id="projects">
