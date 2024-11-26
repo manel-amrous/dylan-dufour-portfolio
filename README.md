@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Portfolio de [Votre Nom], développeur web spécialisé dans la création de sites modernes et dynamiques.">
-  Dylan - Portfolio
+  <meta name="description" content="Portfolio de Dylan, développeur web spécialisé dans la création de sites modernes et dynamiques.">
+  Dylan -  Mon Portfolio
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
