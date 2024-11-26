@@ -40,10 +40,7 @@
 
   <section id="contact">
     <h2>Contactez-moi</h2>
-    <form action="mailto:dylan.dufour@laplateforme.io" method="POST" enctype="text/plain">
-      <label for="email">Email :</label>
-      <input type="email" id="email" name="email" required>
-      <textarea id="message" name="message" placeholder="Votre message" required></textarea>
+    mail: dylan.dufour@laplateforme.io
       <button type="submit">Envoyer</button>
     </form>
   </section>
