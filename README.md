@@ -41,7 +41,7 @@
   <section id="contact">
     <h2>Contactez-moi</h2>
     mail: dylan.dufour@laplateforme.io
-      <button type="submit">Envoyer</button>
+      <button type="submit"></button>
     </form>
   </section>
 
