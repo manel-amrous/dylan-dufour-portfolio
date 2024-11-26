@@ -21,7 +21,7 @@
   <section id="hero">
     <h1>Bienvenue sur mon portfolio</h1>
     <p>Je suis Dylan DUFOUR, un développeur web passionné par la création de sites web dynamiques et modernes.</p>
-    <a href="#projects" class="btn">Voir mes projets</a>
+    <a href="#projects" class="btn"></a>
   </section>
 
   <section id="about">
@@ -33,7 +33,7 @@
   <section id="projects">
     <h2>Mes réalisations</h2>
     <div class="project-card">
-      <img src=>
+      [lol](https://github.com/Dylan-Dufour/C-Users-dydyd-Documents-morpion-2.py/blob/main/morpion%202.py)
       <h3>Jeu de Morpion</h3>
       <p>Création de Morpion sur Python</p>
     </div>
