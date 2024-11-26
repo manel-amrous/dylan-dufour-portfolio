@@ -36,7 +36,6 @@
       <h3>Nom du projet</h3>
       <p>Description du projet...</p>
     </div>
-    <!-- Ajoutez d'autres cartes de projets ici -->
   </section>
 
   <section id="contact">
