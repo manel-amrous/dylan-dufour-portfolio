@@ -142,5 +142,20 @@ button:hover {
 }
 </style>
 
+/* Exemple d'animation fade-in */
+section {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+}
+
+section.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Utilisation de JavaScript pour appliquer la classe "visible" lorsque la section devient visible */
+
+
 # dylan-dufour-portfolio
 Portfolio
