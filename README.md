@@ -42,7 +42,7 @@
  
   <p>Création d'un site web
     
-  [](https://github.com/nathalie-albertini/Fan-Site/blob/main/fansite2.html)
+  [FANSITE](https://github.com/nathalie-albertini/Fan-Site/blob/main/fansite2.html)
     </div>
   </section>
 
