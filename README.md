@@ -36,10 +36,13 @@
   <section id="projects">
     <h2>Mes réalisations</h2>
     <div class="project-card">
-      [lol](https://github.com/Dylan-Dufour/C-Users-dydyd-Documents-morpion-2.py/blob/main/morpion%202.py)
+      
+  [lol](https://github.com/Dylan-Dufour/C-Users-dydyd-Documents-morpion-2.py/blob/main/morpion%202.py)
       <h3>Jeu de Morpion</h3>
       <p>Création de Morpion sur Python</p>
-      [lol](https://github.com/nathalie-albertini/Fan-Site/blob/main/fansite2.html)
+      <p>Création d'un site web
+        
+  [lol](https://github.com/nathalie-albertini/Fan-Site/blob/main/fansite2.html)
     </div>
   </section>
 
