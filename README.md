@@ -39,7 +39,6 @@
       
   [Morpion](https://github.com/manel-amrous/morpion)
     
-    </div>
   </section>
 
   <section id="contact">
