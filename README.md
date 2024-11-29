@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Portfolio de Dylan, développeur web spécialisé dans la création de sites modernes et dynamiques.">
-  Dylan -  Mon Portfolio
+  <meta name="description" content="Portfolio de Manel, développeuse web spécialisé dans la création de sites modernes et dynamiques.">
+  Manel -  Mon Portfolio
 
   ![image](https://github.com/user-attachments/assets/179d8d2b-650e-403d-b02e-a9d76a41d559)
 
@@ -23,13 +23,13 @@
 
   <section id="hero">
     <h1>Bienvenue sur mon portfolio</h1>
-    <p>Je suis Dylan DUFOUR, un développeur web passionné par la création de sites web dynamiques et modernes.</p>
+    <p>Je suis Manel Amrous, une développeuse web passionné par la création de sites web dynamiques et modernes.</p>
     <a href="#projects" class="btn"></a>
   </section>
 
   <section id="about">
     <h2>À propos de moi</h2>
-    <p>Je suis un développeur web avec une expérience dans la création de sites responsive et interactifs...
+    <p>Je suis une développeuse web avec une expérience dans la création de sites responsive et interactifs...
       J'ai beaucoup de compétences et connaissances dans ce domaine, j'ai des compétences dans le réseau, la virtualisation, Active Directory, GLPI.</p>
   </section>
 
@@ -37,17 +37,17 @@
     <h2>Mes réalisations</h2>
     <div class="project-card">
       
-  [Création de Morpion sur Python](https://github.com/Dylan-Dufour/C-Users-dydyd-Documents-morpion-2.py/blob/main/morpion%202.py)
+  [Création de Morpion sur Python "C:\Users\evafi\Downloads\morpion (1).py" 
     
-  [FANSITE](https://github.com/nathalie-albertini/Fan-Site/blob/main/fansite2.html)
+  
     </div>
   </section>
 
   <section id="contact">
     <h2>Contactez-moi</h2> Pour plus de renseignements contactez-moi par 
-    mail: dylan.dufour@laplateforme.io
-    linkedin: https://www.linkedin.com/in/dylan-dufour-0bb0ba273/  
-    instagram: https://www.instagram.com/
+    mail: manel.amrous@laplateforme.io
+    linkedin:manel-amrous-2511a133b/ 
+    
   </section>
     
     
@@ -60,5 +60,5 @@
 
 
 
-# dylan-dufour-portfolio
+# Manelamrous-portfolio
 Portfolio
