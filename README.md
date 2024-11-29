@@ -39,15 +39,13 @@
       
   [Morpion](https://github.com/manel-amrous/morpion)
     
-  [FANSITE](https://github.com/nathalie-albertini/Fan-Site/blob/main/fansite2.html)
     </div>
   </section>
 
   <section id="contact">
     <h2>Contactez-moi</h2> Pour plus de renseignements contactez-moi par 
-    mail: dylan.dufour@laplateforme.io
-    linkedin: https://www.linkedin.com/in/dylan-dufour-0bb0ba273/  
-    instagram: https://www.instagram.com/
+    mail: manel.amrous@laplateforme.io 
+    linkedin:  https://www.linkedin.com/in/manel-amrous-2511a133b/
   </section>
     
     
@@ -60,5 +58,5 @@
 
 
 
-# dylan-dufour-portfolio
+# manel-Amrous-portfolio
 Portfolio
