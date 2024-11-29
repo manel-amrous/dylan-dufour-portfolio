@@ -37,7 +37,7 @@
     <h2>Mes réalisations</h2>
     <div class="project-card">
       
-  [Morpion]("C:\Users\evafi\Downloads\morpion (1).py")
+  [Morpion](https://github.com/manel-amrous/morpion)
     
   [FANSITE](https://github.com/nathalie-albertini/Fan-Site/blob/main/fansite2.html)
     </div>
